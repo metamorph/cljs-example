@@ -2,8 +2,10 @@
 
 Compojure and Cljs from a sample @ http://rockyj.in/2015/11/01/clojurescript_compojure.html
 
+`lein cljsbuild once` to compile CLJS to Javascript
+
 `lein ring server-headless` to start the server.
-`lein figwheel` to hotload JS-code.
+`lein figwheel` to hotload JS-code. 
 
 
 ## Usage
